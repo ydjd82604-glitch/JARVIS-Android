@@ -1,4 +1,10 @@
-package com.jarvis.assistant.res
-
-// Resource files for JARVIS Android project
-// This file contains strings, colors, and other resources
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="mic_button_label">Tap to Speak</string>
+    <string name="settings_button_label">Settings</string>
+    <string name="app_description">Your personal Android voice assistant</string>
+    <string name="permission_required">Permission required to use this feature</string>
+    <string name="listening">Listening...</string>
+    <string name="error">Error occurred</string>
+</resources>
